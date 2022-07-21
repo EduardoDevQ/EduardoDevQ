@@ -6,7 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](#)
 
 
-## I'm a Student, Tech Lover and trainee Typescript!! <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## I'm a Student, Tech Lover and trainee Back-End!! <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 👾 I’m currently learning TypeScript and NodeJS
 - 👻 I’m looking to opportunities to grow up and mature my skills
