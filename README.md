@@ -26,7 +26,7 @@
 
 
 ### The Destroyer of Commits
-![Snake animation](https://github.com/EduardoDevQ/gridsnake/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
